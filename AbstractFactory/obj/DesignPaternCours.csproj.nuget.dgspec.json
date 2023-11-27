@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\DesignPaternCours.csproj": {}
+    "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours1\\DesignPaternCours.csproj": {}
   },
   "projects": {
-    "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\DesignPaternCours.csproj": {
+    "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours1\\DesignPaternCours.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\DesignPaternCours.csproj",
+        "projectUniqueName": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours1\\DesignPaternCours.csproj",
         "projectName": "DesignPaternCours",
-        "projectPath": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\DesignPaternCours.csproj",
+        "projectPath": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours1\\DesignPaternCours.csproj",
         "packagesPath": "C:\\Users\\labau\\.nuget\\packages\\",
-        "outputPath": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\obj\\",
+        "outputPath": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\labau\\AppData\\Roaming\\NuGet\\NuGet.Config"

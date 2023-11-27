@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\DesignPaternCours.csproj",
-      "projectName": "DesignPaternCours",
-      "projectPath": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\DesignPaternCours.csproj",
+      "projectUniqueName": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\AbstractFactory\\AbstractFactory.csproj",
+      "projectName": "AbstractFactory",
+      "projectPath": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\AbstractFactory\\AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\labau\\.nuget\\packages\\",
-      "outputPath": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\obj\\",
+      "outputPath": "C:\\Dossier\\Isitech\\Cours\\M4\\Design patern\\DesignPaternCours\\AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\labau\\AppData\\Roaming\\NuGet\\NuGet.Config"
