@@ -1,4 +1,4 @@
 public interface FabriqueVehicule{
-    public abstract Voiture creerAutomobile();
+    public abstract Voiture creerVoiture();
     public abstract Scooter creerScooter();
 }

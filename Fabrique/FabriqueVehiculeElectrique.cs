@@ -1,6 +1,6 @@
 public class FarbiqueVehiculeElectrique : FabriqueVehicule
 {
-    public Voiture creerAutomobile()
+    public Voiture creerVoiture()
     {
         return new VoitureElectrique();
     }

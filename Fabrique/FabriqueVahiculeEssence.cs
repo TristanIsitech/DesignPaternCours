@@ -1,5 +1,5 @@
 public class FabriqueVehiculeEssence: FabriqueVehicule{
-    public Voiture creerAutomobile()
+    public Voiture creerVoiture()
     {
         return new VoitureEssence();
     }

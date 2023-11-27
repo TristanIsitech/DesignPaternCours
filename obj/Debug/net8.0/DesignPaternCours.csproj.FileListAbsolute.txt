@@ -1,0 +1,15 @@
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\bin\Debug\net8.0\DesignPaternCours.exe
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\bin\Debug\net8.0\DesignPaternCours.deps.json
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\bin\Debug\net8.0\DesignPaternCours.runtimeconfig.json
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\bin\Debug\net8.0\DesignPaternCours.dll
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\bin\Debug\net8.0\DesignPaternCours.pdb
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\obj\Debug\net8.0\DesignPaternCours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\obj\Debug\net8.0\DesignPaternCours.AssemblyInfoInputs.cache
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\obj\Debug\net8.0\DesignPaternCours.AssemblyInfo.cs
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\obj\Debug\net8.0\DesignPaternCours.csproj.CoreCompileInputs.cache
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\obj\Debug\net8.0\DesignPaternCours.sourcelink.json
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\obj\Debug\net8.0\DesignPaternCours.dll
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\obj\Debug\net8.0\refint\DesignPaternCours.dll
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\obj\Debug\net8.0\DesignPaternCours.pdb
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\obj\Debug\net8.0\DesignPaternCours.genruntimeconfig.cache
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\obj\Debug\net8.0\ref\DesignPaternCours.dll
