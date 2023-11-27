@@ -1,4 +1,4 @@
 public interface Liasse{
-    public void ajouterDocument();
-    public void imprime();
+    public abstract void ajouterDocument();
+    public abstract void imprime();
 }

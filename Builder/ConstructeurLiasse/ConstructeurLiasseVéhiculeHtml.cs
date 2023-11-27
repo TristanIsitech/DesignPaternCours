@@ -1,8 +1,12 @@
-public class ConstrcteurLiasseVehiculeHtml: ConstrcteurLiasseVehicule {
-    public new void construitBonDeCommande(){
+public class ConstrcteurLiasseVehiculeHtml: ConstructeurLiasseVehicule {
+
+    public ConstrcteurLiasseVehiculeHtml(){
+        liasse = new LiasseHtml();
+    }
+    public override void construitBonDeCommande(){
 
     }
-    public new void construitDemandeImmatriculation(){
+    public override void construitDemandeImmatriculation(){
 
     }
 }
