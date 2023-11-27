@@ -1,10 +1,10 @@
-public interface FabriqueVehiculeEssence: FabriqueVehicule{
-    public new Voiture creerAutomobile()
+public class FabriqueVehiculeEssence: FabriqueVehicule{
+    public Voiture creerAutomobile()
     {
         return new VoitureEssence();
     }
 
-    public new Scooter creerScooter()
+    public Scooter creerScooter()
     {
         return new ScooterEssence();
     }

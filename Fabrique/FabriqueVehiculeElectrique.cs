@@ -1,12 +1,12 @@
-public interface FarbiqueVehiculeElectrique : FabriqueVehicule
+public class FarbiqueVehiculeElectrique : FabriqueVehicule
 {
-    public new void creerAutomobile()
+    public Voiture creerAutomobile()
     {
-
+        return new VoitureElectrique();
     }
 
-    public new void creerScooter()
+    public Scooter creerScooter()
     {
-
+        return new ScooterElectrique();
     }
 }
