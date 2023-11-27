@@ -1,3 +1,3 @@
-public class Scooter{
-    
+public abstract class Scooter: Vehicule{
+
 }

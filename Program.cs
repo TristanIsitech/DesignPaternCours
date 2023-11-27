@@ -1,4 +1,11 @@
 ﻿FabriqueVehicule uneFabriqueElectrique = new FarbiqueVehiculeElectrique();
-var uneVoitureElectrique = uneFabriqueElectrique.creerVoiture();
+FabriqueVehicule uneFabriqueEssence = new FabriqueVehiculeEssence();
 
-Console.WriteLine(uneVoitureElectrique.GetType());
+List<Vehicule> lesVehicules = new List<Vehicule>();
+lesVehicules.Add(uneFabriqueElectrique.creerVoiture());
+lesVehicules.Add(uneFabriqueEssence.creerScooter());
+
+foreach (var unVehicule in lesVehicules)
+{
+    Console.WriteLine(unVehicule.GetType());
+}

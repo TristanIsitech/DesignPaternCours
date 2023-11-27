@@ -1,3 +1,3 @@
-public abstract class Voiture{
+public abstract class Voiture: Vehicule{
 
 }
