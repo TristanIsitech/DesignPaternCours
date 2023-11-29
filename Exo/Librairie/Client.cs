@@ -1,7 +1,7 @@
 public abstract class Client
 {
     public string nom;
-    public List<Livre> livres = new List<Livre>();
+    public MaList<Livre> livres = new MaList<Livre>();
     public decimal portfeuil;
     public Client(string nom, decimal portfeuil)
     {

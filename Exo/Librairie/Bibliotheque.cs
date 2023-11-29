@@ -2,13 +2,13 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 public class Bibliotheque
 {
-    public List<Livre> livres = new List<Livre>();
-    public List<Auteur> auteurs = new List<Auteur>();
+    public MaList<Livre> livres = new MaList<Livre>();
+    public MaList<Auteur> auteurs = new MaList<Auteur>();
 
-    public List<Client> clients = new List<Client>();
-    public List<Livre> SuivreAuteur(Auteur auteur)
+    public MaList<Client> clients = new MaList<Client>();
+    public MaList<Livre> SuivreAuteur(Auteur auteur)
     {
-        List<Livre> livreDunAuteur = new List<Livre>();
+        MaList<Livre> livreDunAuteur = new MaList<Livre>();
         foreach (Livre unLivre in livres)
         {
             if (unLivre.auteur.nom == auteur.nom)
@@ -19,9 +19,9 @@ public class Bibliotheque
         return livreDunAuteur;
     }
 
-    public List<Livre> SuivreCategorie(Categories categories)
+    public MaList<Livre> SuivreCategorie(Categories categories)
     {
-        return new List<Livre>();
+        return new MaList<Livre>();
     }
 
     public decimal PrixEmpunt(Livre livre)
@@ -79,6 +79,19 @@ public class BibliothequeDecorator : Bibliotheque
     public void AjouterSenior(string nom, decimal portfeuil)
     {
         clients.Add(new Senior(nom, portfeuil));
+    }
+}
+
+public class MaList<T> : List<T>
+{
+    public new string ToString()
+    {
+        string result = "";
+        foreach (T livre in this)
+        {
+            result += livre!.ToString() + "\n";
+        }
+        return result;
     }
 }
 
