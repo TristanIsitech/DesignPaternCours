@@ -11,6 +11,11 @@ public class Livre
         this.auteur = auteur;
         this.prix = prix;
     }
+
+    public override string ToString()
+    {
+        return "'" + titre + "' (" + categories + ") de " + auteur.nom + " à " + prix + "€";
+    }
 }
 
 public class LivreBuilder
