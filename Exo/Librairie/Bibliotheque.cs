@@ -63,6 +63,11 @@ public class BibliothequeDecorator : Bibliotheque
     {
         livres.Add(livreBuilder.AjouterLivre(titre, auteur, categories, prix));
     }
+
+    public void AjouterLivre(Livre livre)
+    {
+        livres.Add(livreBuilder.AjouterLivre(livre.titre, livre.auteur, livre.categories, livre.prix));
+    }
     public void AjouterAuteur(string nom)
     {
         auteurs.Add(auteurBuilder.AjouterAuteur(nom));
