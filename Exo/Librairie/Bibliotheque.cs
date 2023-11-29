@@ -28,12 +28,29 @@ public class Bibliotheque
     {
         return livre.prix;
     }
-    
-    public Client? GetClient(string nom){
-        foreach(Client unClient in clients){
-            if(unClient.nom.Equals(nom)) return unClient;
+
+    public Client? GetClient(string nom)
+    {
+        foreach (Client unClient in clients)
+        {
+            if (unClient.nom.Equals(nom)) return unClient;
         }
         return null;
+    }
+
+    public bool EmprunterUnLivre(Client client, Livre livre)
+    {
+        bool exist = false;
+        foreach (Client unClient in clients)
+        {
+            if (unClient == client)
+            {
+                unClient.Empunter(livre);
+                exist = true;
+            }
+        }
+        livres.Remove(livre);
+        return exist;
     }
 }
 
