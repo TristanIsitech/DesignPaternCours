@@ -46,6 +46,19 @@ public class BibliothequeDecorator : Bibliotheque
     {
         auteurs.Add(auteurBuilder.AjouterAuteur(nom));
     }
+
+    public void AjouterEtudiant(string nom)
+    {
+        clients.Add(new Etudiant(nom));
+    }
+    public void AjouteurAdulte(string nom)
+    {
+        clients.Add(new Adulte(nom));
+    }
+    public void AjouterSenior(string nom)
+    {
+        clients.Add(new Senior(nom));
+    }
 }
 
 public enum Categories
