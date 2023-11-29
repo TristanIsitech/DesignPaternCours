@@ -28,6 +28,13 @@ public class Bibliotheque
     {
         return livre.prix;
     }
+    
+    public Client? GetClient(string nom){
+        foreach(Client unClient in clients){
+            if(unClient.nom.Contains(nom)) return unClient;
+        }
+        return null;
+    }
 }
 
 public class BibliothequeDecorator : Bibliotheque
