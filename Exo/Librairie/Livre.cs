@@ -24,4 +24,9 @@ public class LivreBuilder
     {
         return new Livre(titre, categories, auteur, prix);
     }
+
+    public Livre AjouterLivre(Livre livre)
+    {
+        return new Livre(livre.titre, livre.categories, livre.auteur, livre.prix);
+    }
 }
