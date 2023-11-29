@@ -11,7 +11,7 @@ public abstract class Client
     public abstract int getReduction();
     public void Empunter(Livre livre)
     {
-        portfeuil -= livre.prix * getReduction() / 100;
+        portfeuil -= livre.prix - livre.prix * getReduction() / 100;
         livres.Add(livre);
     }
 }
