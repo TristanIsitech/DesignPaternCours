@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Runtime.CompilerServices;
 
 public class Bibliotheque
 {
@@ -72,6 +73,10 @@ public class BibliothequeDecorator : Bibliotheque
     {
         auteurs.Add(auteurBuilder.AjouterAuteur(nom));
     }
+    public void AjouterAuteur(Auteur auteur)
+    {
+        auteurs.Add(auteurBuilder.AjouterAuteur(auteur.nom));
+    }
 
     public void AjouterEtudiant(string nom, decimal portfeuil)
     {
@@ -84,6 +89,22 @@ public class BibliothequeDecorator : Bibliotheque
     public void AjouterSenior(string nom, decimal portfeuil)
     {
         clients.Add(new Senior(nom, portfeuil));
+    }
+
+    public void AjouterClient(Client client)
+    {
+        if (client is Etudiant)
+        {
+            clients.Add(new Etudiant(client.nom, client.portfeuil));
+        }
+        else if (client is Adulte)
+        {
+            clients.Add(new Adulte(client.nom, client.portfeuil));
+        }
+        else if (client is Senior)
+        {
+            clients.Add(new Senior(client.nom, client.portfeuil));
+        }
     }
 }
 
