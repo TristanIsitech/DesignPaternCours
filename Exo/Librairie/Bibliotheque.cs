@@ -31,7 +31,7 @@ public class Bibliotheque
     
     public Client? GetClient(string nom){
         foreach(Client unClient in clients){
-            if(unClient.nom.Contains(nom)) return unClient;
+            if(unClient.nom.Equals(nom)) return unClient;
         }
         return null;
     }
