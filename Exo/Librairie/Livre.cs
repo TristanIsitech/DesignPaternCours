@@ -1,9 +1,9 @@
 public class Livre
 {
-    public string titre;
-    public Categories categories;
-    public Auteur auteur;
-    public decimal prix;
+    public string titre { get; set; }
+    public Categories categories { get; set; }
+    public Auteur auteur { get; set; }
+    public decimal prix { get; set; }
     public Livre(string titre, Categories categories, Auteur auteur, decimal prix)
     {
         this.titre = titre;
@@ -15,6 +15,10 @@ public class Livre
     public override string ToString()
     {
         return "'" + titre + "' (" + categories + ") de " + auteur.nom + " à " + prix + "€";
+    }
+    public string ToJson()
+    {
+        return "{ \"titre\":" + titre + ", \"Categories\":" + categories + ",\"Auteur\":" + auteur + ",\"decimal\":" + prix + "}";
     }
 }
 

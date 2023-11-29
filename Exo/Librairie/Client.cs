@@ -1,8 +1,8 @@
 public abstract class Client
 {
-    public string nom;
-    public MaList<Livre> livres = new MaList<Livre>();
-    public decimal portfeuil;
+    public string nom { get; set; }
+    public MaList<Livre> livres { get; set; } = new MaList<Livre>();
+    public decimal portfeuil { get; set; }
     public Client(string nom, decimal portfeuil)
     {
         this.nom = nom;
