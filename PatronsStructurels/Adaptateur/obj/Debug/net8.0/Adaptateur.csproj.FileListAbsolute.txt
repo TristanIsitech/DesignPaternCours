@@ -1,0 +1,15 @@
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\bin\Debug\net8.0\Adaptateur.exe
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\bin\Debug\net8.0\Adaptateur.deps.json
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\bin\Debug\net8.0\Adaptateur.runtimeconfig.json
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\bin\Debug\net8.0\Adaptateur.dll
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\bin\Debug\net8.0\Adaptateur.pdb
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\obj\Debug\net8.0\Adaptateur.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\obj\Debug\net8.0\Adaptateur.AssemblyInfoInputs.cache
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\obj\Debug\net8.0\Adaptateur.AssemblyInfo.cs
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\obj\Debug\net8.0\Adaptateur.csproj.CoreCompileInputs.cache
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\obj\Debug\net8.0\Adaptateur.sourcelink.json
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\obj\Debug\net8.0\Adaptateur.dll
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\obj\Debug\net8.0\refint\Adaptateur.dll
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\obj\Debug\net8.0\Adaptateur.pdb
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\obj\Debug\net8.0\Adaptateur.genruntimeconfig.cache
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Adaptateur\obj\Debug\net8.0\ref\Adaptateur.dll

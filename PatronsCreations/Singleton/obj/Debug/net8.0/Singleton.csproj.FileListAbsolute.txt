@@ -1,0 +1,15 @@
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\bin\Debug\net8.0\Singleton.exe
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\bin\Debug\net8.0\Singleton.deps.json
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\bin\Debug\net8.0\Singleton.dll
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\bin\Debug\net8.0\Singleton.pdb
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\obj\Debug\net8.0\Singleton.sourcelink.json
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\obj\Debug\net8.0\Singleton.dll
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\obj\Debug\net8.0\Singleton.pdb
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Singleton\obj\Debug\net8.0\ref\Singleton.dll

@@ -1,0 +1,15 @@
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\bin\Debug\net8.0\Composite.exe
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\bin\Debug\net8.0\Composite.deps.json
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\bin\Debug\net8.0\Composite.runtimeconfig.json
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\bin\Debug\net8.0\Composite.dll
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\bin\Debug\net8.0\Composite.pdb
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\obj\Debug\net8.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\obj\Debug\net8.0\Composite.AssemblyInfoInputs.cache
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\obj\Debug\net8.0\Composite.AssemblyInfo.cs
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\obj\Debug\net8.0\Composite.csproj.CoreCompileInputs.cache
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\obj\Debug\net8.0\Composite.sourcelink.json
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\obj\Debug\net8.0\Composite.dll
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\obj\Debug\net8.0\refint\Composite.dll
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\obj\Debug\net8.0\Composite.pdb
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\obj\Debug\net8.0\Composite.genruntimeconfig.cache
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsStructurels\Composite\obj\Debug\net8.0\ref\Composite.dll

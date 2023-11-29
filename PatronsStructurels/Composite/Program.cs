@@ -6,4 +6,6 @@ TristanAuto.AddSociétéChilds(new Société("TristanAutoFiliale4", 3));
 
 TristanAuto.childs[2].AddSociétéChilds(new Société("UneAutreFiliale", 5));
 
+Console.WriteLine("Le nombre de véhicule total : " + TristanAuto.GetCalculInText());
+
 Console.WriteLine("Le nombre de véhicule total : " + TristanAuto.GetNbVehicules().ToString());

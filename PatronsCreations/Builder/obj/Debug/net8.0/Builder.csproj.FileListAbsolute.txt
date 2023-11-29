@@ -1,0 +1,15 @@
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\bin\Debug\net8.0\Builder.exe
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\bin\Debug\net8.0\Builder.deps.json
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\bin\Debug\net8.0\Builder.dll
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\bin\Debug\net8.0\Builder.pdb
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\obj\Debug\net8.0\Builder.sourcelink.json
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\obj\Debug\net8.0\Builder.dll
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\obj\Debug\net8.0\refint\Builder.dll
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\obj\Debug\net8.0\Builder.pdb
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+c:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\PatronsCreations\Builder\obj\Debug\net8.0\ref\Builder.dll
