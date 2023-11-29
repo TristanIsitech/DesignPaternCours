@@ -6,9 +6,17 @@ public class Bibliotheque
     public List<Auteur> auteurs = new List<Auteur>();
 
     public List<Client> clients = new List<Client>();
-    public List<Livre> SuivreAuteur(string nom)
+    public List<Livre> SuivreAuteur(Auteur auteur)
     {
-        return new List<Livre>();
+        List<Livre> livreDunAuteur = new List<Livre>();
+        foreach (Livre unLivre in livres)
+        {
+            if (unLivre.auteur.nom == auteur.nom)
+            {
+                livreDunAuteur.Add(unLivre);
+            }
+        }
+        return livreDunAuteur;
     }
 
     public List<Livre> SuivreCategorie(Categories categories)
@@ -36,17 +44,17 @@ public class BibliothequeDecorator : Bibliotheque
         auteurs.Add(auteurBuilder.AjouterAuteur(nom));
     }
 
-    public void AjouterEtudiant(string nom)
+    public void AjouterEtudiant(string nom, decimal portfeuil)
     {
-        clients.Add(new Etudiant(nom));
+        clients.Add(new Etudiant(nom, portfeuil));
     }
-    public void AjouteurAdulte(string nom)
+    public void AjouteurAdulte(string nom, decimal portfeuil)
     {
-        clients.Add(new Adulte(nom));
+        clients.Add(new Adulte(nom, portfeuil));
     }
-    public void AjouterSenior(string nom)
+    public void AjouterSenior(string nom, decimal portfeuil)
     {
-        clients.Add(new Senior(nom));
+        clients.Add(new Senior(nom, portfeuil));
     }
 }
 
