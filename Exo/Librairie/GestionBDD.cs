@@ -18,9 +18,17 @@ public static class GestionBDD
                     lesAuteursBDD.Add(unAuteurBDD);
                 }
             }
-
         }
         return lesAuteursBDD;
+    }
+
+    public static void AjoutAuteurs(List<Auteur> lesAuteurs)
+    {
+        using (StreamWriter writer = new StreamWriter(path + "auteurs.json"))
+        {
+            Console.WriteLine(JsonSerializer.Serialize(lesAuteurs));
+            writer.Write(JsonSerializer.Serialize(lesAuteurs));
+        }
     }
 
     public static MaList<Livre> GetLivres()
@@ -37,7 +45,6 @@ public static class GestionBDD
                     lesLivresBDD.Add(unLivreBDD);
                 }
             }
-
         }
         return lesLivresBDD;
     }

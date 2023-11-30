@@ -119,21 +119,6 @@ public class MaList<T> : List<T>
         }
         return result;
     }
-
-    // public string ToJson()
-    // {
-    //     string result = "[";
-
-    //     // foreach (T element in this)
-    //     // {
-    //     //     if (Type.GetTypeCode(typeof(T)) == TypeCode.Int32(Livre))
-    //     //     {
-    //     //         result += element.ToJson() + ",\n";
-    //     //     }
-    //     // }
-
-    //     return result;
-    // }
 }
 
 public enum Categories
