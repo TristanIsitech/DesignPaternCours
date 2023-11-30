@@ -1,0 +1,15 @@
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\bin\Debug\net8.0\Librairie.exe
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\bin\Debug\net8.0\Librairie.deps.json
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\bin\Debug\net8.0\Librairie.runtimeconfig.json
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\bin\Debug\net8.0\Librairie.dll
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\bin\Debug\net8.0\Librairie.pdb
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\obj\Debug\net8.0\Librairie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\obj\Debug\net8.0\Librairie.AssemblyInfoInputs.cache
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\obj\Debug\net8.0\Librairie.AssemblyInfo.cs
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\obj\Debug\net8.0\Librairie.csproj.CoreCompileInputs.cache
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\obj\Debug\net8.0\Librairie.sourcelink.json
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\obj\Debug\net8.0\Librairie.dll
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\obj\Debug\net8.0\refint\Librairie.dll
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\obj\Debug\net8.0\Librairie.pdb
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\obj\Debug\net8.0\Librairie.genruntimeconfig.cache
+C:\Dossier\Isitech\Cours\M4\Design patern\DesignPaternCours\Exo\Librairie\obj\Debug\net8.0\ref\Librairie.dll

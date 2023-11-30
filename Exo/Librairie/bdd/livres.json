@@ -1,0 +1,10 @@
+[
+    {
+        "titre": "Un Nouveau Livre",
+        "categories": 4,
+        "auteur": {
+            "nom": "UnAuteur"
+        },
+        "prix": 12.34
+    }
+]
